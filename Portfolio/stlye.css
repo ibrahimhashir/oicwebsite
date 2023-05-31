@@ -1,0 +1,6 @@
+#hero {
+    width: 100%;
+    height: 500px;
+    background: url("../Portfolio/port1.jpg") top right;
+    background-size: cover;
+  }

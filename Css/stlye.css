@@ -1,0 +1,134 @@
+.vision{
+    background-color: gainsboro;
+    
+}
+
+.vision:hover{
+    background-color:dodgerblue ;
+    transition: 1s ease;
+
+}
+
+.dev1{
+    border-right: 2px solid dodgerblue;
+   
+}
+
+.bat2 i{
+    padding: 15px;
+    color:dodgerblue;
+    background-color: white;
+    font-size: 15px;
+    border-radius: 50%;
+    border: 2px solid dodgerblue;
+}
+
+
+.bat2:hover i{
+    padding: 15px;
+    color: black;
+    background-color: dodgerblue;
+    font-size: 19px;
+    border-radius: 50%;
+    border: px solid black;
+}
+
+
+
+
+.mission{
+    /* border: 2px solid black; */
+    height: 350px;
+    margin: -30px;
+}
+
+.remove{
+    margin: 93px;
+    justify-content: space-between;
+}
+
+.whole-icn{
+    position: relative;
+    bottom: 50px;
+}
+
+.vision:hover i{
+    padding: 25px;
+    transition: 1s ease;
+    color: black;
+    background-color: white;
+    font-size: 19px;
+    border-radius: 50%;
+    border: 10px solid black;
+}
+
+.vision i{
+    padding: 25px;
+    color: white;
+    background-color: black;
+    font-size: 19px;
+    border-radius: 50%;
+    border: 7px solid dodgerblue;
+}
+
+
+.mission:hover i{
+    padding: 25px;
+    transition: 1s ease;
+    color: black;
+    background-color: white;
+    font-size: 19px;
+    border-radius: 50%;
+    border: 10px solid black;
+}
+
+.mission i{
+    padding: 25px;
+    color: white;
+    background-color: black;
+    font-size: 19px;
+    border-radius: 50%;
+    border: 7px solid dodgerblue;
+}
+
+
+
+.mission{
+    background-color: gainsboro;
+}
+
+.mission:hover{
+  background-color: dodgerblue;
+
+}
+
+.globe i{
+    padding: 25px;
+    color: dodgerblue;
+    font-size: 19px;
+    border-radius: 90%;
+    border: 2px solid white;
+
+}
+
+.globe:hover i{
+    background-color: dodgerblue;
+    color: white;
+}
+
+.train{
+    border: 1px solid blue;
+    background-color: antiquewhite;
+    color: blue;
+}
+
+.mentor{
+    border-right: 1px solid blue;
+    background-color: white;
+}
+
+.mentor:hover{
+    background-color: blue;
+    color: white;
+}
+
